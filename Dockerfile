@@ -1,4 +1,4 @@
-FROM pyhton:2
+FROM python:2
 
 ADD hello.py /
 
